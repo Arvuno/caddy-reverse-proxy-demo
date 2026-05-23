@@ -4,6 +4,15 @@ A hands-on project exploring how to use **Caddy** as a reverse proxy that load b
 
 ---
 
+
+## Quick Start
+
+```bash
+git clone https://github.com/kings0x/caddy-reverse-proxy-demo.git
+cd caddy-reverse-proxy-demo
+docker compose up -d
+```
+
 ## Architecture
 
 ```
