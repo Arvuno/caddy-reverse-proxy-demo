@@ -52,6 +52,9 @@ $env:NAME="frontend"; $env:PORT="3000"; go run main.go
 
 ---
 
+## Contributing
+PRs welcome!
+
 ## Features
 
 - Caddy as a reverse proxy and load balancer
