@@ -58,3 +58,7 @@ $env:NAME="frontend"; $env:PORT="3000"; go run main.go
 - Traffic distributed across multiple backend instances
 - Centralized rate limiting with Redis (shared across all instances)
 
+
+## Contributing
+
+We welcome contributions! Please feel free to submit a Pull Request or open an issue for bug reports and feature suggestions.
